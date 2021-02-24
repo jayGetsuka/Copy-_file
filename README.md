@@ -6,6 +6,7 @@ Create folder in Usb drive :(change drive in code)
 Folder Pictures
 Folder Music
 Folder Clips
+
 Used in command pull_data.py
 ---------------------------
 Used in GUI 
