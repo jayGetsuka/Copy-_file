@@ -15,8 +15,13 @@ Steal.ui
 
 python file to .exe
 
+open command or terminal
+-------------------------
+
 pip install pyinstaller
+-----------------------
 
 pyinstaller --onefile --noconsole name_file.py
+---------------------------------------------
 
 
