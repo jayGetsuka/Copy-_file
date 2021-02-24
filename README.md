@@ -9,7 +9,7 @@ Folder Clips
 
 Updated recently:
 -----------------
-copyfile.py
+copy_file_demo.py
 
 Steal.ui
 
